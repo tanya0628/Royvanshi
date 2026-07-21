@@ -32,7 +32,6 @@ function Navbar() {
         <li
           className="dropdown"
           onMouseEnter={() => setDropdown(true)}
-<<<<<<< HEAD
           
         >
             <span onClick={() => setDropdown(!dropdown)}>
@@ -58,33 +57,6 @@ function Navbar() {
 
             <li>
               <a href="/"  onClick={() => setDropdown(false)}>Trademark Registration</a>
-=======
-          onMouseLeave={() => setDropdown(false)}
-        >
-          <span>
-            Services <FaChevronDown />
-          </span>
-
-          <ul className={dropdown ? "dropdown-menu show" : "dropdown-menu"}>
-            <li>
-              <a href="/">Income Tax</a>
-            </li>
-
-            <li>
-              <a href="/">GST Registration</a>
-            </li>
-
-            <li>
-              <a href="/">Accounting Services</a>
-            </li>
-
-            <li>
-              <a href="/">Company Registration</a>
-            </li>
-
-            <li>
-              <a href="/">Trademark Registration</a>
->>>>>>> 6d2a12ce19c7c8f9f366e53ee427eac6e51685ee
             </li>
           </ul>
         </li>

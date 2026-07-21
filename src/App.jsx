@@ -11,10 +11,7 @@ import Testimonials from "./components/Testimonials";
 // import AboutSection from "./components/AboutSection";
 
 import About from "./pages/About";
-<<<<<<< HEAD
 import CompaniesServices from "./pages/CompanyServices";
-=======
->>>>>>> 6d2a12ce19c7c8f9f366e53ee427eac6e51685ee
 
 
 function Home() {
@@ -40,10 +37,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
-<<<<<<< HEAD
         <Route path="/services" element={<CompaniesServices />} /> 
-=======
->>>>>>> 6d2a12ce19c7c8f9f366e53ee427eac6e51685ee
       </Routes>
       
     </>

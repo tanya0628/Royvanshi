@@ -16,7 +16,11 @@
 
 .overlay1{
   width: 100%;
+<<<<<<< HEAD
   height: 56vh;
+=======
+  height: 50vh;
+>>>>>>> 6d2a12ce19c7c8f9f366e53ee427eac6e51685ee
   background: rgba(0,0,0,.55);
   display: flex;
   justify-content: center;
@@ -29,7 +33,11 @@
 }
 
 .banner-content h1{
+<<<<<<< HEAD
   font-size:50px;
+=======
+  font-size:46px;
+>>>>>>> 6d2a12ce19c7c8f9f366e53ee427eac6e51685ee
   font-weight:700;
   margin-bottom:10px;
 }

@@ -5,7 +5,11 @@ import {
   FaProjectDiagram,
   FaUsers,
   FaHandshake,
+<<<<<<< HEAD
   FaChartLine, 
+=======
+  FaChartLine,
+>>>>>>> 6d2a12ce19c7c8f9f366e53ee427eac6e51685ee
   FaFileInvoiceDollar,
   FaBriefcase,
   FaChartPie,
